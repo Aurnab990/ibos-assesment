@@ -3,6 +3,7 @@ import Navbar from '../Layouts/Navbar';
 import { useLoaderData } from 'react-router-dom';
 import SingleProduct from '../Product/SingleProduct';
 import Sidebar from '../Components/Sidebar';
+import Footer from '../Layouts/Footer';
 
 const Home = () => {
     const items = useLoaderData();
@@ -13,6 +14,7 @@ const Home = () => {
                 <Sidebar></Sidebar>
                 <SingleProduct items={items}></SingleProduct>
             </div>
+            <Footer></Footer>
         </div>
     );
 };
