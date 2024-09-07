@@ -2,6 +2,9 @@
 
 Welcome to **FurniFlex**, a modern furniture e-commerce platform built with ReactJS, TailwindCSS, and Firebase. This application allows users to browse products, manage a shopping cart, and handle user authentication seamlessly.
 
+## Issue
+After deploying I see my product listing align is changed. I give it 3 items in a row, but after deploying it shows ok, but after a few minutes it's change the align and list 2 items in a row. So I waorking on that but for time issue, I requested to consider this time.
+
 ## Live Demo
 
 You can check out the live application here: [FurniFlex Live Demo](https://furniflexibos.netlify.app/)
@@ -12,7 +15,7 @@ You can check out the live application here: [FurniFlex Live Demo](https://furni
    - **Objective:** Implement user authentication.
    - **Requirements:**
      - Users can sign up and log in.
-     - Context API is used to manage global authentication state.
+     - Context API is used to manage the global authentication state.
      - Session-based state management ensures users remain logged in until they log out.
 
 ### 2. **Product Listing**
