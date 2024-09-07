@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Modern Sofa",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2021/03/2dnd-600x600.png",
+        "description": "A sleek and stylish modern sofa with a comfortable seating experience and elegant design.",
+        "price": 899.99,
+        "discount": 10,
+        "old_price": 999.99
+    },
+    {
+        "name": "Wooden Dining Table",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2021/03/3rd.jpg",
+        "description": "A sturdy wooden dining table that fits perfectly in any dining room. Seats up to 6 people.",
+        "price": 549.99,
+        "discount": 15,
+        "old_price": 647.05
+    },
+    {
+        "name": "Office Desk",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2020/09/WEB-3324-B-min-400x450.jpg",
+        "description": "A functional office desk with ample storage space and a clean, modern look.",
+        "price": 299.99,
+        "discount": 20,
+        "old_price": 374.99
+    },
+    {
+        "name": "King Size Bed",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2021/03/1st.jpg",
+        "description": "A luxurious king-size bed with a high-quality mattress and elegant headboard.",
+        "price": 1199.99,
+        "discount": 5,
+        "old_price": 1263.15
+    },
+    {
+        "name": "Recliner Chair",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2020/09/WEB-6164-A-min-1-400x450.jpg",
+        "description": "A comfortable recliner chair perfect for relaxing after a long day. Features adjustable reclining positions.",
+        "price": 399.99,
+        "discount": 25,
+        "old_price": 533.32
+    },
+    {
+        "name": "Bookcase",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2020/09/WEB-3351-B-min-400x450.jpg",
+        "description": "A stylish bookcase with adjustable shelves to accommodate books of various sizes.",
+        "price": 199.99,
+        "discount": 10,
+        "old_price": 222.22
+    },
+    {
+        "name": "TV Stand",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2020/09/WEB-3342-B-min-3-400x450.jpg",
+        "description": "A contemporary TV stand with ample space for your media components and cable management.",
+        "price": 229.99,
+        "discount": 12,
+        "old_price": 261.36
+    },
+    {
+        "name": "Accent Chair",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2020/09/WEB-3346-B-min-400x450.jpg",
+        "description": "An elegant accent chair that adds a touch of sophistication to any room. Available in various colors.",
+        "price": 159.99,
+        "discount": 8,
+        "old_price": 173.91
+    },
+    {
+        "name": "Coffee Table",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2020/09/WEB-3343-B-min-1-400x450.jpg",
+        "description": "A modern coffee table with a sleek design and a glass top. Perfect for your living room.",
+        "price": 149.99,
+        "discount": 5,
+        "old_price": 157.89
+    },
+    {
+        "name": "Nightstand",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2020/09/WEB-3334-A-min-1-400x450.jpg",
+        "description": "A compact nightstand with a drawer and shelf, ideal for bedside storage.",
+        "price": 89.99,
+        "discount": 15,
+        "old_price": 105.88
+    },
+    {
+        "name": "Dining Chair",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2020/09/WEB-6165-A-min-1-400x450.jpg",
+        "description": "A comfortable dining chair with a padded seat and stylish design. Available in sets of 2 or 4.",
+        "price": 129.99,
+        "discount": 10,
+        "old_price": 144.44
+    },
+    {
+        "name": "Dressers",
+        "img": "https://www.navanafurniture.com/wp-content/uploads/2020/09/C-min-400x450.jpg",
+        "description": "A spacious dresser with multiple drawers for storing clothes and accessories. Available in different finishes.",
+        "price": 349.99,
+        "discount": 12,
+        "old_price": 397.72
+    }
+]
